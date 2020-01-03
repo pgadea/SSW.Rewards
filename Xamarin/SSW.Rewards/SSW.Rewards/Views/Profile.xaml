@@ -54,14 +54,14 @@
                              Padding="50,0"
                              VerticalOptions="Start">
                     <Label Text="{Binding Name}"
-                           d:Text="Matt Goldman"
+                           d:Text="Placeholder Name"
                            TextColor="White"
                            Margin="0"
                            HorizontalTextAlignment="Center"
                            VerticalTextAlignment="End"
                            FontSize="Title"/>
                     <Label Text="{Binding Email}"
-                           d:Text="mattgoldman@ssw.com.au"
+                           d:Text="placeholder@email.com"
                            TextColor="White"
                            Margin="0"
                            VerticalTextAlignment="Start"
